@@ -9,5 +9,8 @@ Just some data with charts
 [Show](https://github.com/gearazk/cryptocurrency_data-/blob/master/notebook.ipynb)
 
 ## Some images
-https://github.com/gearazk/cryptocurrency_data-/raw/master/img/char-2.png
-https://github.com/gearazk/cryptocurrency_data-/raw/master/img/char-1.png
+
+![alt text](https://github.com/gearazk/cryptocurrency_data-/raw/master/img/char-1.png "Chart 1")
+
+![alt text](https://github.com/gearazk/cryptocurrency_data-/raw/master/img/char-2.png "Chart 2")
+
