@@ -10,7 +10,7 @@ Just some data with charts
 
 ## Some images
 
-![alt text](https://github.com/gearazk/cryptocurrency_data-/raw/master/img/char-1.png "Chart 1")
+![alt text](https://github.com/gearazk/cryptocurrency_data-/raw/master/img/chart-1.png "Chart 1")
 
 ![alt text](https://github.com/gearazk/cryptocurrency_data-/raw/master/img/char-2.png "Chart 2")
 
